@@ -8,7 +8,7 @@
 
 ## 🎶 Малофункциональный музыкальный плеер написаный на HTML, CSS, JS
 
-> ## 🌐 Демо: [player.shash29.ru](https://player.shash29.ru/)
+## 🌐 Демо: [shash29exe.github.io/Beautiful-player/src](https://shash29exe.github.io/Beautiful-player/src/)]
 
 ---
 
