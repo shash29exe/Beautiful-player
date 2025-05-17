@@ -9,11 +9,20 @@
 ## 🎶 Малофункциональный музыкальный плеер написаный на HTML, CSS, JS
 
 > ## 🌐 Демо: [player.shash29.ru](https://player.shash29.ru/)
-> <details><summary>Скриншоты</summary>
-    1. ![LightTheme](assets/light.jpg "Light Theme")
-    2. ![DarkTheme](assets/dark.jpg "Dark Theme")
+
+---
+
+<details><summary>Скриншоты</summary>
+
+## Светлая тема
+![LightTheme](assets/light.jpg "Light Theme")
+
+## Тёмная тема
+![DarkTheme](assets/dark.jpg "Dark Theme")
 
 </details>
+
+---
 
 ## TO-DO LIST:
 | Задача                          | Выполнено   |
