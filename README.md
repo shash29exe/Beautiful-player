@@ -10,8 +10,8 @@
 
 > ## 🌐 Демо: [player.shash29.ru](https://player.shash29.ru/)
 > <details><summary>Скриншоты</summary>
-  1. ![LightTheme](assets/light.jpg "Light Theme")
-  2. ![DarkTheme](assets/dark.jpg "Dark Theme")
+    1. ![LightTheme](assets/light.jpg "Light Theme")
+    2. ![DarkTheme](assets/dark.jpg "Dark Theme")
 
 </details>
 
